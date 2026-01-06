@@ -7,3 +7,5 @@ See [About Me](about.md)
 
 ## Projects
 - Git Basics
+- DevOps Lab 1
+
